@@ -30,7 +30,7 @@
     "humps": "^2.0.1",
     "jquery": "^3.4.0",
     "lodash": "^4.17.15",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nanomorph": "^5.4.0",
     "numeral": "^2.0.6",
     "path-parser": "^4.2.0",
@@ -39,7 +39,7 @@
     "popper.js": "^1.14.7",
     "reduce-reducers": "^0.4.3",
     "redux": "^4.0.0",
-    "urijs": "^1.19.2"
+    "urijs": "^1.19.11"
   },
   "devDependencies": {
     "@babel/core": "^7.7.2",
